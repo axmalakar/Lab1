@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/amalaka/Lab1/Lab1/Vivado/Lab1/Lab1.sim/sim_1/impl/func/xsim/top_demo_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module segment_driver
+INFO: [VRFC 10-311] analyzing module top_demo
+INFO: [VRFC 10-311] analyzing module glbl
